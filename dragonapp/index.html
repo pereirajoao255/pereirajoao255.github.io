@@ -1,0 +1,42 @@
+<!--<form>
+    <label input type="text"></label>
+    Nome completo do aluno: <input type="text" name="nome">    
+    <button type="submit">Buscar</button>
+</form>-->
+<img style="width: 150px;" scr="" id="imgPers">
+Nome: <nome id="nomeperson"></nome>
+<br>
+Ki: <ki id="ki"></ki>
+<br>
+MaxKI: <maxKi id="maxKi"></maxKi>
+
+
+<script>
+    async function perso() {
+   const url = "https://dragonball-api.com/api/characters/8";
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Response status: ${response.status}`);
+    }
+
+    const json = await response.json();
+    console.log(json);
+    
+    console.log(json.name);
+    console.log(json.ki);
+    console.log(json.maxki);
+
+    document.getElementById("nomeperson").innerText = json.name
+    document.getElementById("ki").innerText = json.ki
+    document.getElementById("maxKi").innerText = json.maxKi
+    document.getElementById("imgPers").src = json.image;
+
+
+  } catch (error) {
+    console.error(error.message);
+
+  }
+}
+perso();
+</script>
