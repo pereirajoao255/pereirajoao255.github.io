@@ -28,7 +28,7 @@
       "nome": "X-Burguer",
       "descricao": "Pão, hambúrguer 90g, queijo, alface, tomate",
       "preco": 20.99,
-      "imagem": "https://images.pexels.com/photos/2983101/pexels-photo-2983101.jpeg"
+      "imagem": "https://images.pexels.com/photos/2983101/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 2,
@@ -36,55 +36,7 @@
       "nome": "Misto Quente",
       "descricao": "Pão de forma, presunto e queijo",
       "preco": 7.00,
-      "imagem": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg"
-    },
-    {
-      "id": 3,
-      "categoria": "doces",
-      "nome": "Cupcake",
-      "descricao": "Com cobertura de chocolate",
-      "preco": 4.50,
-      "imagem": "https://images.pexels.com/photos/3995912/pexels-photo-3995912.jpeg"
-    },
-    {
-      "id": 4,
-      "categoria": "doces",
-      "nome": "Bolo de Morango",
-      "descricao": "Fatia com chantilly",
-      "preco": 6.50,
-      "imagem": "https://images.pexels.com/photos/1095550/pexels-photo-1095550.jpeg"
-    },
-    {
-      "id": 5,
-      "categoria": "bebidas",
-      "nome": "Suco Natural",
-      "descricao": "Sabores: laranja, limão, maracujá",
-      "preco": 5.00,
-      "imagem": "https://images.pexels.com/photos/5946971/pexels-photo-5946971.jpeg"
-    },
-    {
-      "id": 6,
-      "categoria": "bebidas",
-      "nome": "Refrigerante",
-      "descricao": "Lata 350ml",
-      "preco": 4.00,
-      "imagem": "https://images.pexels.com/photos/2183027/pexels-photo-2183027.jpeg"
-    },
-    {
-      "id": 7,
-      "categoria": "outros",
-      "nome": "Batata Frita",
-      "descricao": "Porção individual",
-      "preco": 8.99,
-      "imagem": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg"
-    },
-    {
-      "id": 8,
-      "categoria": "outros",
-      "nome": "Coxinha",
-      "descricao": "Unidade recheada com frango",
-      "preco": 3.50,
-      "imagem": "https://images.pexels.com/photos/6272184/pexels-photo-6272184.jpeg"
+      "imagem": "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 9,
@@ -92,7 +44,7 @@
       "nome": "Cachorro-Quente",
       "descricao": "Pão, salsicha, molho, batata palha",
       "preco": 9.50,
-      "imagem": "https://images.pexels.com/photos/2874989/pexels-photo-2874989.jpeg"
+      "imagem": "https://images.pexels.com/photos/2874989/pexels-photo-2874989.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 10,
@@ -100,7 +52,7 @@
       "nome": "Esfiha de Carne",
       "descricao": "Esfiha aberta com recheio de carne moída",
       "preco": 5.00,
-      "imagem": "https://images.pexels.com/photos/678414/pexels-photo-678414.jpeg"
+      "imagem": "https://images.pexels.com/photos/678414/pexels-photo-678414.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 11,
@@ -108,23 +60,23 @@
       "nome": "Pastel de Queijo",
       "descricao": "Recheado com queijo derretido",
       "preco": 6.00,
-      "imagem": "https://images.pexels.com/photos/11232628/pexels-photo-11232628.jpeg"
+      "imagem": "https://images.pexels.com/photos/11232628/pexels-photo-11232628.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
-      "id": 12,
-      "categoria": "salgados",
-      "nome": "Pizza de Calabresa",
-      "descricao": "Fatia de pizza com calabresa e queijo",
-      "preco": 12.00,
-      "imagem": "https://images.pexels.com/photos/2147491/pexels-photo-2147491.jpeg"
-    },
-    {
-      "id": 13,
-      "categoria": "salgados",
-      "nome": "Enroladinho de Salsicha",
-      "descricao": "Massa crocante com salsicha",
+      "id": 3,
+      "categoria": "doces",
+      "nome": "Cupcake",
+      "descricao": "Com cobertura de chocolate",
       "preco": 4.50,
-      "imagem": "https://images.pexels.com/photos/4553111/pexels-photo-4553111.jpeg"
+      "imagem": "https://images.pexels.com/photos/3995912/pexels-photo-3995912.jpeg?auto=compress&cs=tinysrgb&w=64"
+    },
+    {
+      "id": 4,
+      "categoria": "doces",
+      "nome": "Bolo de Morango",
+      "descricao": "Fatia com chantilly",
+      "preco": 6.50,
+      "imagem": "https://images.pexels.com/photos/1095550/pexels-photo-1095550.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 14,
@@ -132,7 +84,7 @@
       "nome": "Brigadeiro",
       "descricao": "Unidade de chocolate granulado",
       "preco": 1.50,
-      "imagem": "https://images.pexels.com/photos/1656656/pexels-photo-1656656.jpeg"
+      "imagem": "https://images.pexels.com/photos/1656656/pexels-photo-1656656.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 15,
@@ -140,7 +92,7 @@
       "nome": "Pudim",
       "descricao": "Fatia de pudim de leite condensado",
       "preco": 4.00,
-      "imagem": "https://images.pexels.com/photos/1639563/pexels-photo-1639563.jpeg"
+      "imagem": "https://images.pexels.com/photos/1639563/pexels-photo-1639563.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 16,
@@ -148,23 +100,23 @@
       "nome": "Bolo de Cenoura",
       "descricao": "Com cobertura de chocolate",
       "preco": 5.00,
-      "imagem": "https://images.pexels.com/photos/1552635/pexels-photo-1552635.jpeg"
+      "imagem": "https://images.pexels.com/photos/1552635/pexels-photo-1552635.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
-      "id": 17,
-      "categoria": "doces",
-      "nome": "Donut",
-      "descricao": "Coberto com glacê colorido",
-      "preco": 5.50,
-      "imagem": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg"
+      "id": 5,
+      "categoria": "bebidas",
+      "nome": "Suco Natural",
+      "descricao": "Sabores: laranja, limão, maracujá",
+      "preco": 5.00,
+      "imagem": "https://images.pexels.com/photos/5946971/pexels-photo-5946971.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
-      "id": 18,
-      "categoria": "doces",
-      "nome": "Torta de Limão",
-      "descricao": "Fatia com merengue",
-      "preco": 7.00,
-      "imagem": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg"
+      "id": 6,
+      "categoria": "bebidas",
+      "nome": "Refrigerante",
+      "descricao": "Lata 350ml",
+      "preco": 4.00,
+      "imagem": "https://images.pexels.com/photos/2183027/pexels-photo-2183027.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 19,
@@ -172,7 +124,7 @@
       "nome": "Água Mineral",
       "descricao": "Garrafa 500ml sem gás",
       "preco": 2.50,
-      "imagem": "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg"
+      "imagem": "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 20,
@@ -180,7 +132,7 @@
       "nome": "Chá Gelado",
       "descricao": "Sabores: pêssego, limão",
       "preco": 4.50,
-      "imagem": "https://images.pexels.com/photos/2678434/pexels-photo-2678434.jpeg"
+      "imagem": "https://images.pexels.com/photos/2678434/pexels-photo-2678434.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 21,
@@ -188,15 +140,23 @@
       "nome": "Café Expresso",
       "descricao": "Curto e encorpado",
       "preco": 3.00,
-      "imagem": "https://images.pexels.com/photos/434213/pexels-photo-434213.jpeg"
+      "imagem": "https://images.pexels.com/photos/434213/pexels-photo-434213.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
-      "id": 22,
-      "categoria": "bebidas",
-      "nome": "Milkshake",
-      "descricao": "Sabores: chocolate, morango, baunilha",
-      "preco": 10.00,
-      "imagem": "https://images.pexels.com/photos/3727250/pexels-photo-3727250.jpeg"
+      "id": 7,
+      "categoria": "outros",
+      "nome": "Batata Frita",
+      "descricao": "Porção individual",
+      "preco": 8.99,
+      "imagem": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=64"
+    },
+    {
+      "id": 8,
+      "categoria": "outros",
+      "nome": "Coxinha",
+      "descricao": "Unidade recheada com frango",
+      "preco": 3.50,
+      "imagem": "https://images.pexels.com/photos/6272184/pexels-photo-6272184.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 23,
@@ -204,7 +164,7 @@
       "nome": "Pão de Queijo",
       "descricao": "3 unidades",
       "preco": 4.00,
-      "imagem": "https://images.pexels.com/photos/6446849/pexels-photo-6446849.jpeg"
+      "imagem": "https://images.pexels.com/photos/6446849/pexels-photo-6446849.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 24,
@@ -212,7 +172,7 @@
       "nome": "Torrada com Patê",
       "descricao": "2 fatias com patê de frango",
       "preco": 5.00,
-      "imagem": "https://images.pexels.com/photos/1426711/pexels-photo-1426711.jpeg"
+      "imagem": "https://images.pexels.com/photos/1426711/pexels-photo-1426711.jpeg?auto=compress&cs=tinysrgb&w=64"
     },
     {
       "id": 25,
@@ -220,344 +180,7 @@
       "nome": "Salada de Frutas",
       "descricao": "Copinho com frutas sortidas",
       "preco": 6.00,
-      "imagem": "https://images.pexels.com/photos/209339/pexels-photo-209339.jpeg"
-    },
-    {
-      "id": 26,
-      "categoria": "salgados",
-      "nome": "X-Salada",
-      "descricao": "Pão, hambúrguer, queijo, alface, tomate, maionese",
-      "preco": 22.50,
-      "imagem": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg"
-    },
-    {
-      "id": 27,
-      "categoria": "salgados",
-      "nome": "X-Bacon",
-      "descricao": "Pão, hambúrguer, queijo, bacon, alface, tomate",
-      "preco": 24.99,
-      "imagem": "https://images.pexels.com/photos/1251198/pexels-photo-1251198.jpeg"
-    },
-    {
-      "id": 28,
-      "categoria": "salgados",
-      "nome": "X-Tudo",
-      "descricao": "Pão, 2 hambúrgueres, queijo, presunto, bacon, ovo, alface, tomate",
-      "preco": 28.50,
-      "imagem": "https://images.pexels.com/photos/4809149/pexels-photo-4809149.jpeg"
-    },
-    {
-      "id": 29,
-      "categoria": "salgados",
-      "nome": "X-Frango",
-      "descricao": "Pão, filé de frango, queijo, alface, tomate",
-      "preco": 21.00,
-      "imagem": "https://images.pexels.com/photos/4669304/pexels-photo-4669304.jpeg"
-    },
-    {
-      "id": 30,
-      "categoria": "salgados",
-      "nome": "X-Calabresa",
-      "descricao": "Pão, hambúrguer, queijo, calabresa, alface, tomate",
-      "preco": 23.50,
-      "imagem": "https://images.pexels.com/photos/6601822/pexels-photo-6601822.jpeg"
-    },
-    {
-      "id": 31,
-      "categoria": "salgados",
-      "nome": "X-Egg",
-      "descricao": "Pão, hambúrguer, queijo, ovo, alface, tomate",
-      "preco": 22.00,
-      "imagem": "https://images.pexels.com/photos/2983102/pexels-photo-2983102.jpeg"
-    },
-    {
-      "id": 32,
-      "categoria": "salgados",
-      "nome": "X-Coração",
-      "descricao": "Pão, hambúrguer de coração, queijo, alface, tomate",
-      "preco": 25.00,
-      "imagem": "https://images.pexels.com/photos/6601823/pexels-photo-6601823.jpeg"
-    },
-    {
-      "id": 33,
-      "categoria": "salgados",
-      "nome": "X-Vegano",
-      "descricao": "Pão, hambúrguer vegano, queijo vegano, alface, tomate",
-      "preco": 26.50,
-      "imagem": "https://images.pexels.com/photos/4601976/pexels-photo-4601976.jpeg"
-    },
-    {
-      "id": 34,
-      "categoria": "salgados",
-      "nome": "X-Picanha",
-      "descricao": "Pão, hambúrguer de picanha, queijo, alface, tomate",
-      "preco": 29.99,
-      "imagem": "https://images.pexels.com/photos/6601824/pexels-photo-6601824.jpeg"
-    },
-    {
-      "id": 35,
-      "categoria": "salgados",
-      "nome": "X-Cheddar",
-      "descricao": "Pão, hambúrguer, cheddar, bacon, alface, tomate",
-      "preco": 25.50,
-      "imagem": "https://images.pexels.com/photos/6601825/pexels-photo-6601825.jpeg"
-    },
-    {
-      "id": 36,
-      "categoria": "salgados",
-      "nome": "X-Calabresa com Catupiry",
-      "descricao": "Pão, hambúrguer, calabresa, catupiry, alface, tomate",
-      "preco": 26.00,
-      "imagem": "https://images.pexels.com/photos/6601826/pexels-photo-6601826.jpeg"
-    },
-    {
-      "id": 37,
-      "categoria": "salgados",
-      "nome": "X-Frango com Catupiry",
-      "descricao": "Pão, filé de frango, catupiry, alface, tomate",
-      "preco": 24.50,
-      "imagem": "https://images.pexels.com/photos/6601827/pexels-photo-6601827.jpeg"
-    },
-    {
-      "id": 38,
-      "categoria": "salgados",
-      "nome": "X-Burguer Duplo",
-      "descricao": "Pão, 2 hambúrgueres, queijo, alface, tomate",
-      "preco": 26.99,
-      "imagem": "https://images.pexels.com/photos/6601828/pexels-photo-6601828.jpeg"
-    },
-    {
-      "id": 39,
-      "categoria": "salgados",
-      "nome": "X-Bacon Duplo",
-      "descricao": "Pão, 2 hambúrgueres, queijo, bacon, alface, tomate",
-      "preco": 28.99,
-      "imagem": "https://images.pexels.com/photos/6601829/pexels-photo-6601829.jpeg"
-    },
-    {
-      "id": 40,
-      "categoria": "salgados",
-      "nome": "X-Tudo Duplo",
-      "descricao": "Pão, 2 hambúrgueres, queijo, presunto, bacon, ovo, alface, tomate",
-      "preco": 32.50,
-      "imagem": "https://images.pexels.com/photos/6601830/pexels-photo-6601830.jpeg"
-    },
-    {
-      "id": 41,
-      "categoria": "salgados",
-      "nome": "X-Frango Duplo",
-      "descricao": "Pão, 2 filés de frango, queijo, alface, tomate",
-      "preco": 27.50,
-      "imagem": "https://images.pexels.com/photos/6601831/pexels-photo-6601831.jpeg"
-    },
-    {
-      "id": 42,
-      "categoria": "salgados",
-      "nome": "X-Calabresa Duplo",
-      "descricao": "Pão, 2 hambúrgueres, queijo, calabresa, alface, tomate",
-      "preco": 28.50,
-      "imagem": "https://images.pexels.com/photos/6601832/pexels-photo-6601832.jpeg"
-    },
-    {
-      "id": 43,
-      "categoria": "salgados",
-      "nome": "X-Egg Duplo",
-      "descricao": "Pão, 2 hambúrgueres, queijo, ovo, alface, tomate",
-      "preco": 27.00,
-      "imagem": "https://images.pexels.com/photos/6601833/pexels-photo-6601833.jpeg"
-    },
-    {
-      "id": 44,
-      "categoria": "salgados",
-      "nome": "X-Coração Duplo",
-      "descricao": "Pão, 2 hambúrgueres de coração, queijo, alface, tomate",
-      "preco": 30.00,
-      "imagem": "https://images.pexels.com/photos/6601834/pexels-photo-6601834.jpeg"
-    },
-    {
-      "id": 45,
-      "categoria": "salgados",
-      "nome": "X-Vegano Duplo",
-      "descricao": "Pão, 2 hambúrgueres veganos, queijo vegano, alface, tomate",
-      "preco": 31.50,
-      "imagem": "https://images.pexels.com/photos/6601835/pexels-photo-6601835.jpeg"
-    },
-    {
-      "id": 46,
-      "categoria": "salgados",
-      "nome": "X-Picanha Duplo",
-      "descricao": "Pão, 2 hambúrgueres de picanha, queijo, alface, tomate",
-      "preco": 34.99,
-      "imagem": "https://images.pexels.com/photos/6601836/pexels-photo-6601836.jpeg"
-    },
-    {
-      "id": 47,
-      "categoria": "salgados",
-      "nome": "X-Cheddar Duplo",
-      "descricao": "Pão, 2 hambúrgueres, cheddar, bacon, alface, tomate",
-      "preco": 30.50,
-      "imagem": "https://images.pexels.com/photos/6601837/pexels-photo-6601837.jpeg"
-    },
-    {
-      "id": 48,
-      "categoria": "salgados",
-      "nome": "X-Calabresa com Catupiry Duplo",
-      "descricao": "Pão, 2 hambúrgueres, calabresa, catupiry, alface, tomate",
-      "preco": 31.00,
-      "imagem": "https://images.pexels.com/photos/6601838/pexels-photo-6601838.jpeg"
-    },
-    {
-      "id": 49,
-      "categoria": "salgados",
-      "nome": "X-Frango com Catupiry Duplo",
-      "descricao": "Pão, 2 filés de frango, catupiry, alface, tomate",
-      "preco": 29.50,
-      "imagem": "https://images.pexels.com/photos/6601839/pexels-photo-6601839.jpeg"
-    },
-    {
-      "id": 50,
-      "categoria": "salgados",
-      "nome": "X-Burguer Triplo",
-      "descricao": "Pão, 3 hambúrgueres, queijo, alface, tomate",
-      "preco": 32.99,
-      "imagem": "https://images.pexels.com/photos/6601840/pexels-photo-6601840.jpeg"
-    },
-    {
-      "id": 51,
-      "categoria": "doces",
-      "nome": "Sorvete de Chocolate",
-      "descricao": "Copo com 2 bolas",
-      "preco": 8.00,
-      "imagem": "https://images.pexels.com/photos/1625235/pexels-photo-1625235.jpeg"
-    },
-    {
-      "id": 52,
-      "categoria": "doces",
-      "nome": "Sorvete de Morango",
-      "descricao": "Copo com 2 bolas",
-      "preco": 8.00,
-      "imagem": "https://images.pexels.com/photos/1309583/pexels-photo-1309583.jpeg"
-    },
-    {
-      "id": 53,
-      "categoria": "doces",
-      "nome": "Sorvete de Baunilha",
-      "descricao": "Copo com 2 bolas",
-      "preco": 8.00,
-      "imagem": "https://images.pexels.com/photos/1289363/pexels-photo-1289363.jpeg"
-    },
-    {
-      "id": 54,
-      "categoria": "doces",
-      "nome": "Sorvete de Flocos",
-      "descricao": "Copo com 2 bolas",
-      "preco": 8.00,
-      "imagem": "https://images.pexels.com/photos/1192043/pexels-photo-1192043.jpeg"
-    },
-    {
-      "id": 55,
-      "categoria": "doces",
-      "nome": "Sorvete de Creme",
-      "descricao": "Copo com 2 bolas",
-      "preco": 8.00,
-      "imagem": "https://images.pexels.com/photos/1192044/pexels-photo-1192044.jpeg"
-    },
-    {
-      "id": 56,
-      "categoria": "doces",
-      "nome": "Sorvete de Napolitano",
-      "descricao": "Copo com 3 sabores",
-      "preco": 9.50,
-      "imagem": "https://images.pexels.com/photos/3631/summer-dessert-sweet-ice-cream.jpg"
-    },
-    {
-      "id": 57,
-      "categoria": "doces",
-      "nome": "Açaí",
-      "descricao": "Tigela média com granola",
-      "preco": 12.00,
-      "imagem": "https://images.pexels.com/photos/5946085/pexels-photo-5946085.jpeg"
-    },
-    {
-      "id": 58,
-      "categoria": "doces",
-      "nome": "Açaí com Banana",
-      "descricao": "Tigela média com banana e granola",
-      "preco": 14.00,
-      "imagem": "https://images.pexels.com/photos/5946086/pexels-photo-5946086.jpeg"
-    },
-    {
-      "id": 59,
-      "categoria": "doces",
-      "nome": "Açaí com Morango",
-      "descricao": "Tigela média com morango e granola",
-      "preco": 14.00,
-      "imagem": "https://images.pexels.com/photos/5946087/pexels-photo-5946087.jpeg"
-    },
-    {
-      "id": 60,
-      "categoria": "doces",
-      "nome": "Açaí com Leite Condensado",
-      "descricao": "Tigela média com leite condensado e granola",
-      "preco": 15.00,
-      "imagem": "https://images.pexels.com/photos/5946088/pexels-photo-5946088.jpeg"
-    },
-    {
-      "id": 61,
-      "categoria": "doces",
-      "nome": "Açaí com Nutella",
-      "descricao": "Tigela média com nutella e granola",
-      "preco": 16.00,
-      "imagem": "https://images.pexels.com/photos/5946089/pexels-photo-5946089.jpeg"
-    },
-    {
-      "id": 62,
-      "categoria": "doces",
-      "nome": "Açaí com Paçoca",
-      "descricao": "Tigela média com paçoca e granola",
-      "preco": 15.00,
-      "imagem": "https://images.pexels.com/photos/5946090/pexels-photo-5946090.jpeg"
-    },
-    {
-      "id": 63,
-      "categoria": "doces",
-      "nome": "Açaí com Leite em Pó",
-      "descricao": "Tigela média com leite em pó e granola",
-      "preco": 15.00,
-      "imagem": "https://images.pexels.com/photos/5946091/pexels-photo-5946091.jpeg"
-    },
-    {
-      "id": 64,
-      "categoria": "doces",
-      "nome": "Açaí com M&M's",
-      "descricao": "Tigela média com M&M's e granola",
-      "preco": 16.00,
-      "imagem": "https://images.pexels.com/photos/5946092/pexels-photo-5946092.jpeg"
-    },
-    {
-      "id": 65,
-      "categoria": "doces",
-      "nome": "Açaí com Kiwi",
-      "descricao": "Tigela média com kiwi e granola",
-      "preco": 15.00,
-      "imagem": "https://images.pexels.com/photos/5946093/pexels-photo-5946093.jpeg"
-    },
-    {
-      "id": 66,
-      "categoria": "doces",
-      "nome": "Açaí com Amendoim",
-      "descricao": "Tigela média com amendoim e granola",
-      "preco": 14.00,
-      "imagem": "https://images.pexels.com/photos/5946094/pexels-photo-5946094.jpeg"
-    },
-    {
-      "id": 67,
-      "categoria": "doces",
-      "nome": "Açaí com Castanha",
-      "descricao": "Tigela média com castanha e granola",
-      "preco": 16.00,
-      "imagem": "https://images.pexels.com/photos/5946095/pexels-photo-5946095.jpeg"
-    },
-   
+      "imagem": "https://images.pexels.com/photos/209339/pexels-photo-209339.jpeg?auto=compress&cs=tinysrgb&w=64"
+    }
   ]
 }
