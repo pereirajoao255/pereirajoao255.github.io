@@ -1,0 +1,76 @@
+{
+  "categorias": [
+    {
+      "id": "romance",
+      "nome": "Romance",
+      "icone": "https://img.icons8.com/emoji/48/red-heart.png"
+    },
+    {
+      "id": "ficcao",
+      "nome": "Ficção Científica",
+      "icone": "https://img.icons8.com/emoji/48/alien-monster.png"
+    },
+    {
+      "id": "didaticos",
+      "nome": "Didáticos",
+      "icone": "https://img.icons8.com/emoji/48/books.png"
+    },
+    {
+      "id": "biografias",
+      "nome": "Biografias",
+      "icone": "https://img.icons8.com/emoji/48/memo.png"
+    },
+    {
+      "id": "outros",
+      "nome": "Outros",
+      "icone": "https://img.icons8.com/emoji/48/open-book.png"
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "categoria": "romance",
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "descricao": "Um clássico sobre amor, classe social e orgulho.",
+      "preco": 39.90,
+      "imagem": "https://images.pexels.com/photos/1005324/pexels-photo-1005324.jpeg?auto=compress&cs=tinysrgb&w=64"
+    },
+    {
+      "id": 2,
+      "categoria": "ficcao",
+      "titulo": "Duna",
+      "autor": "Frank Herbert",
+      "descricao": "Uma epopeia no deserto de Arrakis.",
+      "preco": 49.90,
+      "imagem": "https://images.pexels.com/photos/5904934/pexels-photo-5904934.jpeg?auto=compress&cs=tinysrgb&w=64"
+    },
+    {
+      "id": 3,
+      "categoria": "didaticos",
+      "titulo": "Matemática Essencial",
+      "autor": "Carlos André",
+      "descricao": "Didático voltado para o ensino médio.",
+      "preco": 29.90,
+      "imagem": "https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&w=64"
+    },
+    {
+      "id": 4,
+      "categoria": "biografias",
+      "titulo": "Steve Jobs",
+      "autor": "Walter Isaacson",
+      "descricao": "A vida do gênio da Apple.",
+      "preco": 59.90,
+      "imagem": "https://images.pexels.com/photos/712521/pexels-photo-712521.jpeg?auto=compress&cs=tinysrgb&w=64"
+    },
+    {
+      "id": 5,
+      "categoria": "outros",
+      "titulo": "Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "descricao": "Clássico atemporal sobre infância, amor e perdas.",
+      "preco": 19.90,
+      "imagem": "https://images.pexels.com/photos/1112048/pexels-photo-1112048.jpeg?auto=compress&cs=tinysrgb&w=64"
+    }
+  ]
+}
