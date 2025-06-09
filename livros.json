@@ -1,76 +1,301 @@
 {
   "categorias": [
     {
-      "id": "romance",
-      "nome": "Romance",
-      "icone": "https://img.icons8.com/emoji/48/red-heart.png"
-    },
-    {
       "id": "ficcao",
-      "nome": "Ficção Científica",
-      "icone": "https://img.icons8.com/emoji/48/alien-monster.png"
+      "nome": "Ficção",
+      "icone": "https://img.icons8.com/emoji/48/open-book-emoji.png"
     },
     {
-      "id": "didaticos",
-      "nome": "Didáticos",
-      "icone": "https://img.icons8.com/emoji/48/books.png"
+      "id": "nao-ficcao",
+      "nome": "Não Ficção",
+      "icone": "https://img.icons8.com/emoji/48/scroll.png"
     },
     {
-      "id": "biografias",
-      "nome": "Biografias",
-      "icone": "https://img.icons8.com/emoji/48/memo.png"
+      "id": "fantasia",
+      "nome": "Fantasia",
+      "icone": "https://img.icons8.com/emoji/48/crystal-ball-emoji.png"
     },
     {
-      "id": "outros",
-      "nome": "Outros",
-      "icone": "https://img.icons8.com/emoji/48/open-book.png"
+      "id": "autoajuda",
+      "nome": "Autoajuda",
+      "icone": "https://img.icons8.com/emoji/48/seedling-emoji.png"
+    },
+    {
+      "id": "historia",
+      "nome": "História",
+      "icone": "https://img.icons8.com/emoji/48/classical-building.png"
     }
   ],
   "livros": [
     {
       "id": 1,
-      "categoria": "romance",
-      "titulo": "Orgulho e Preconceito",
-      "autor": "Jane Austen",
-      "descricao": "Um clássico sobre amor, classe social e orgulho.",
+      "categoria": "ficcao",
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "descricao": "Distopia clássica sobre vigilância e totalitarismo.",
       "preco": 39.90,
-      "imagem": "https://images.pexels.com/photos/1005324/pexels-photo-1005324.jpeg?auto=compress&cs=tinysrgb&w=64"
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg"
     },
     {
       "id": 2,
       "categoria": "ficcao",
-      "titulo": "Duna",
-      "autor": "Frank Herbert",
-      "descricao": "Uma epopeia no deserto de Arrakis.",
-      "preco": 49.90,
-      "imagem": "https://images.pexels.com/photos/5904934/pexels-photo-5904934.jpeg?auto=compress&cs=tinysrgb&w=64"
+      "titulo": "O Apanhador no Campo de Centeio",
+      "autor": "J.D. Salinger",
+      "descricao": "Narrativa de um jovem rebelde nos EUA.",
+      "preco": 29.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
     },
     {
       "id": 3,
-      "categoria": "didaticos",
-      "titulo": "Matemática Essencial",
-      "autor": "Carlos André",
-      "descricao": "Didático voltado para o ensino médio.",
-      "preco": 29.90,
-      "imagem": "https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&w=64"
+      "categoria": "ficcao",
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "descricao": "Clássico da literatura brasileira sobre ciúme e memória.",
+      "preco": 24.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/71bCfjEctTL.jpg"
     },
     {
       "id": 4,
-      "categoria": "biografias",
-      "titulo": "Steve Jobs",
-      "autor": "Walter Isaacson",
-      "descricao": "A vida do gênio da Apple.",
-      "preco": 59.90,
-      "imagem": "https://images.pexels.com/photos/712521/pexels-photo-712521.jpeg?auto=compress&cs=tinysrgb&w=64"
+      "categoria": "ficcao",
+      "titulo": "O Morro dos Ventos Uivantes",
+      "autor": "Emily Brontë",
+      "descricao": "Romance gótico sobre paixão e vingança.",
+      "preco": 34.50,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81vpsIs58WL.jpg"
     },
     {
       "id": 5,
-      "categoria": "outros",
-      "titulo": "Pequeno Príncipe",
-      "autor": "Antoine de Saint-Exupéry",
-      "descricao": "Clássico atemporal sobre infância, amor e perdas.",
+      "categoria": "ficcao",
+      "titulo": "Fahrenheit 451",
+      "autor": "Ray Bradbury",
+      "descricao": "Sociedade onde livros são proibidos e queimados.",
+      "preco": 37.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81QPTpLXyFL.jpg"
+    },
+    {
+      "id": 6,
+      "categoria": "nao-ficcao",
+      "titulo": "Sapiens: Uma Breve História da Humanidade",
+      "autor": "Yuval Noah Harari",
+      "descricao": "Resumo da história e evolução da humanidade.",
+      "preco": 49.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/713jIoMO3UL.jpg"
+    },
+    {
+      "id": 7,
+      "categoria": "nao-ficcao",
+      "titulo": "Educated",
+      "autor": "Tara Westover",
+      "descricao": "Memórias de superação e educação.",
+      "preco": 42.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81WojUxbbFL.jpg"
+    },
+    {
+      "id": 8,
+      "categoria": "nao-ficcao",
+      "titulo": "O Poder do Hábito",
+      "autor": "Charles Duhigg",
+      "descricao": "Como os hábitos moldam nossa vida e como mudá-los.",
+      "preco": 35.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/91fWCQ6l9ML.jpg"
+    },
+    {
+      "id": 9,
+      "categoria": "nao-ficcao",
+      "titulo": "A Arte da Guerra",
+      "autor": "Sun Tzu",
+      "descricao": "Tratado militar antigo com lições de estratégia.",
+      "preco": 22.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81QdKZkKlyL.jpg"
+    },
+    {
+      "id": 10,
+      "categoria": "nao-ficcao",
+      "titulo": "O Homem mais Rico da Babilônia",
+      "autor": "George S. Clason",
+      "descricao": "Conselhos financeiros através de parábolas antigas.",
       "preco": 19.90,
-      "imagem": "https://images.pexels.com/photos/1112048/pexels-photo-1112048.jpeg?auto=compress&cs=tinysrgb&w=64"
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81iJh5CdzDL.jpg"
+    },
+    {
+      "id": 11,
+      "categoria": "fantasia",
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "autor": "J.R.R. Tolkien",
+      "descricao": "Início da épica jornada para destruir o anel.",
+      "preco": 59.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
+    },
+    {
+      "id": 12,
+      "categoria": "fantasia",
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "descricao": "O jovem bruxo começa sua jornada na escola de magia.",
+      "preco": 39.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg"
+    },
+    {
+      "id": 13,
+      "categoria": "fantasia",
+      "titulo": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+      "autor": "C.S. Lewis",
+      "descricao": "Aventuras em um mundo mágico e perigoso.",
+      "preco": 35.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/71F18L0J1DL.jpg"
+    },
+    {
+      "id": 14,
+      "categoria": "fantasia",
+      "titulo": "Mistborn: O Império Final",
+      "autor": "Brandon Sanderson",
+      "descricao": "Luta contra o domínio de um tirano imortal.",
+      "preco": 45.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81y37nlG9ML.jpg"
+    },
+    {
+      "id": 15,
+      "categoria": "fantasia",
+      "titulo": "A Guerra dos Tronos",
+      "autor": "George R.R. Martin",
+      "descricao": "Intrigas e batalhas pelo trono dos sete reinos.",
+      "preco": 59.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/91dSMhdIzTL.jpg"
+    },
+    {
+      "id": 16,
+      "categoria": "autoajuda",
+      "titulo": "O Poder do Agora",
+      "autor": "Eckhart Tolle",
+      "descricao": "Guiando para a presença plena e a paz interior.",
+      "preco": 29.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/71yoFbMGdIL.jpg"
+    },
+    {
+      "id": 17,
+      "categoria": "autoajuda",
+      "titulo": "Como Fazer Amigos e Influenciar Pessoas",
+      "autor": "Dale Carnegie",
+      "descricao": "Técnicas para melhorar relacionamentos pessoais e profissionais.",
+      "preco": 27.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81nD3bM-9KL.jpg"
+    },
+    {
+      "id": 18,
+      "categoria": "autoajuda",
+      "titulo": "A Sutil Arte de Ligar o F*da-se",
+      "autor": "Mark Manson",
+      "descricao": "Um enfoque honesto e direto para a felicidade.",
+      "preco": 35.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg"
+    },
+    {
+      "id": 19,
+      "categoria": "autoajuda",
+      "titulo": "Mindset: A Nova Psicologia do Sucesso",
+      "autor": "Carol S. Dweck",
+      "descricao": "Como o pensamento pode influenciar seu potencial.",
+      "preco": 32.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81lQy2Hd6-L.jpg"
+    },
+    {
+      "id": 20,
+      "categoria": "autoajuda",
+      "titulo": "Desperte Seu Gigante Interior",
+      "autor": "Tony Robbins",
+      "descricao": "Estratégias para transformar sua vida pessoal e profissional.",
+      "preco": 34.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81tNmiqDd3L.jpg"
+    },
+    {
+      "id": 21,
+      "categoria": "historia",
+      "titulo": "Guns, Germs, and Steel",
+      "autor": "Jared Diamond",
+      "descricao": "Como a geografia e a biologia moldaram a história humana.",
+      "preco": 42.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/71qA11yxWGL.jpg"
+    },
+    {
+      "id": 22,
+      "categoria": "historia",
+      "titulo": "A História Secreta",
+      "autor": "Donna Tartt",
+      "descricao": "Mistério envolvendo estudantes de uma faculdade elitista.",
+      "preco": 38.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81iqZ2HHD-L.jpg"
+    },
+    {
+      "id": 23,
+      "categoria": "historia",
+      "titulo": "O Diário de Anne Frank",
+      "autor": "Anne Frank",
+      "descricao": "Relato comovente da vida durante a Segunda Guerra Mundial.",
+      "preco": 25.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/71jB+2ZPSNL.jpg"
+    },
+    {
+      "id": 24,
+      "categoria": "historia",
+      "titulo": "História da Filosofia",
+      "autor": "Will Durant",
+      "descricao": "Panorama completo do desenvolvimento do pensamento filosófico.",
+      "preco": 50.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81DjxH7sbiL.jpg"
+    },
+    {
+      "id": 25,
+      "categoria": "historia",
+      "titulo": "A História do Brasil",
+      "autor": "Boris Fausto",
+      "descricao": "Visão ampla da formação e desenvolvimento do Brasil.",
+      "preco": 45.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/71kVL3bCDML.jpg"
+    },
+    {
+      "id": 26,
+      "categoria": "ficcao",
+      "titulo": "O Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "descricao": "Uma fábula poética sobre amizade e humanidade.",
+      "preco": 19.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81gGdhJ-RVL.jpg"
+    },
+    {
+      "id": 27,
+      "categoria": "ficcao",
+      "titulo": "A Metamorfose",
+      "autor": "Franz Kafka",
+      "descricao": "História surreal de transformação e alienação.",
+      "preco": 22.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81OY6WIPMcL.jpg"
+    },
+    {
+      "id": 28,
+      "categoria": "nao-ficcao",
+      "titulo": "O Gene: Uma História Íntima",
+      "autor": "Siddhartha Mukherjee",
+      "descricao": "Exploração da genética e seu impacto na humanidade.",
+      "preco": 44.00,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81s6DUyQCZL.jpg"
+    },
+    {
+      "id": 29,
+      "categoria": "fantasia",
+      "titulo": "O Nome do Vento",
+      "autor": "Patrick Rothfuss",
+      "descricao": "A história do mago Kvothe e suas aventuras.",
+      "preco": 49.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/91nLM7FTrSL.jpg"
+    },
+    {
+      "id": 30,
+      "categoria": "autoajuda",
+      "titulo": "Quem Pensa, Enriquece",
+      "autor": "Napoleon Hill",
+      "descricao": "Manual clássico sobre sucesso e riqueza.",
+      "preco": 28.90,
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/71p+e+8BzDL.jpg"
     }
   ]
 }
